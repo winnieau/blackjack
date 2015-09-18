@@ -9,10 +9,9 @@ Picture cards are worth 10 points
 Ace is worth 1 or 11
 Player is dealt minimum 2 cards
 Player can continue to hit until he goes bust
-```
 
 Ronin Casino Rules
-```
+
 Use 1 deck
 Dealer stands on soft 17
 Player can double on any 2 cards
