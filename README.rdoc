@@ -10,4 +10,4 @@ Player is dealt minimum 2 cards
 Player can continue to hit until he goes bust
 
  
-![Screenshot](app/assets/images/blackjack_screenshot.png)
+![Screenshot](https://github.com/winnieau/blackjack/blob/master/app/assets/images/blackjack_screenshot.png)
