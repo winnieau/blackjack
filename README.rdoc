@@ -9,3 +9,5 @@ Ace is worth 1 or 11
 Player is dealt minimum 2 cards
 Player can continue to hit until he goes bust
 
+Inline-style: 
+![alt text](app/assets/images/blackjack_screenshot.png)
