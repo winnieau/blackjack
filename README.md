@@ -15,3 +15,4 @@ Player can continue to hit until he goes bust
 
 
 [Link to our Blackjack app](https://pure-refuge-7844.herokuapp.com/ "Blackjack app")
+
