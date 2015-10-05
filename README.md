@@ -12,6 +12,16 @@ Player is dealt minimum 2 cards
 Player can continue to hit until he goes bust
 ```
 
+Technologies Used
+___
+
+- Ruby on Rails
+- JavaScript
+- JQuery
+- HTML
+- CSS
+
+
  
 ![alt text](https://github.com/winnieau/blackjack/blob/master/app/assets/images/blackjack_screenshot.png)
 
