@@ -1,6 +1,8 @@
 Blackjack Makerthon!
 ===
 
+Construction of an MVP Blackjack App made by Ronin July 2015 cohort in two days. 
+
 
 Basic rules
 ---
