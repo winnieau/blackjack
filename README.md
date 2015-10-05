@@ -12,7 +12,7 @@ Player is dealt minimum 2 cards
 Player can continue to hit until he goes bust
 ```
 
-Technologies Used
+**Technologies Used**
 ___
 
 - Ruby on Rails
