@@ -22,7 +22,9 @@ Technologies Used
 - CSS
 
 
- 
+Screenshot
+---
+
 ![alt text](https://github.com/winnieau/blackjack/blob/master/app/assets/images/blackjack_screenshot.png)
 
 
