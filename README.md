@@ -7,11 +7,11 @@ Construction of an MVP Blackjack App made by Ronin July 2015 cohort in two days.
 Basic rules
 ---
 ```
-Player goes bust if over 21
-Picture cards are worth 10 points
-Ace is worth 1 or 11
-Player is dealt minimum 2 cards
-Player can continue to hit until he goes bust
+- [x] Player goes bust if over 21
+- [x] Picture cards are worth 10 points
+- [x] Ace is worth 1 or 11
+- [x] Player is dealt minimum 2 cards
+- [x] Player can continue to hit until he goes bust
 ```
 
 Initial Planning with Domain Model
