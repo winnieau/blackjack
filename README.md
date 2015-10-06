@@ -30,4 +30,4 @@ Screenshot
 ![alt text](https://github.com/winnieau/blackjack/blob/master/app/assets/images/blackjack_screenshot.png)
 
 
-[Link to our Blackjack app](https://pure-refuge-7844.herokuapp.com/)
+Find a link to our deployed Blackjack app [here](https://pure-refuge-7844.herokuapp.com/)
