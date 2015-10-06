@@ -14,6 +14,18 @@ Player is dealt minimum 2 cards
 Player can continue to hit until he goes bust
 ```
 
+Initial Planning with Domain Model
+---
+|   Object   |                        Messages                            |
+|------------|------------------------------------------------------------|
+|    Game    |                      deal, winner                          |
+|    Hand    |    hit, stand, total, finished?, sort, ace_count, view     |
+|    Deck    |                        shuffle                             |
+
+
+"Game" and "Hand" were separate classes, while "Deck" was a module included inside the Game class. Some of the methods were later tweaked. 
+
+
 Technologies Used
 ---
 
