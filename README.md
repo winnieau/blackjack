@@ -22,6 +22,9 @@ Technologies Used
 - JQuery
 - HTML
 - CSS
+- Rspec
+- Shoulda
+- Capybara
 
 
 Screenshot
