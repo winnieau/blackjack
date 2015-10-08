@@ -3,6 +3,10 @@ Blackjack Makerthon!
 
 Construction of an MVP Blackjack App made by Ronin July 2015 cohort in two days. 
 
+[![Blackjack Demo](https://j.gifs.com/m894NJ.gif)](https://youtu.be/76VCk903ypk)
+
+Click on the gif for a link to the YouTube video.
+
 
 Basic rules
 ---
