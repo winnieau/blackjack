@@ -41,6 +41,9 @@ Technologies Used
 - Rspec
 - Shoulda
 - Capybara
+- Byebug
+- Poltergeist
+- Database Cleaner
 
 
 Screenshot
