@@ -37,6 +37,7 @@ Technologies Used
 - JavaScript
 - JQuery
 - HTML
+- Atom
 - CSS
 - Rspec
 - Shoulda
