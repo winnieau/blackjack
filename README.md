@@ -55,7 +55,7 @@ Screenshot
 
 Find a link to our deployed Blackjack app [here](https://pure-refuge-7844.herokuapp.com/)
 
-Others who contributed to this repository: 
+Others who contributed to this project: 
 ---
 
 * [Parminder Sanghera](https://github.com/ajitsy)
