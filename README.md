@@ -62,3 +62,8 @@ Others who contributed to this project:
 * [Josh Tatterton](https://github.com/JoshuaTatterton)
 * [Richard Charman](https://github.com/RichardCharman)
 * [Balint Nemes](https://github.com/squarebe)
+* 
+About me 
+---
+
+I am [Winnie Au](https://github.com/winnieau) from [Makers Academy](http://www.makersacademy.com/) Ronin cohort July 2015!
