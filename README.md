@@ -62,7 +62,8 @@ Others who contributed to this project:
 * [Josh Tatterton](https://github.com/JoshuaTatterton)
 * [Richard Charman](https://github.com/RichardCharman)
 * [Balint Nemes](https://github.com/squarebe)
-* 
+
+
 About me 
 ---
 
