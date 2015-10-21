@@ -35,14 +35,16 @@ Technologies Used
 
 - Ruby on Rails
 - JavaScript
+- Trello
 - JQuery
 - HTML
 - Atom
 - CSS
 - Rspec
+- Byebug
 - Shoulda
 - Capybara
-- Byebug
+- Evernote 
 - Poltergeist
 - Database Cleaner
 
