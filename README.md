@@ -69,4 +69,4 @@ Others who contributed to this project:
 About me 
 ---
 
-I am [Winnie Au](https://github.com/winnieau) from [Makers Academy](http://www.makersacademy.com/) Ronin cohort July 2015!
+I am [Winnie Au](https://github.com/winnieau), a junior full-stack developer from [Makers Academy](http://www.makersacademy.com/) Ronin cohort July 2015!
